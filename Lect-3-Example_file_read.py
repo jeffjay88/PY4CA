@@ -5,6 +5,8 @@ Created on Sun Oct  6 14:51:19 2019
 @author: HP
 """
 
+#### This is a sample script for reading data from a single file, and visualizing it in a simple plot.
+
 import scipy as sp
 import numpy as np
 import matplotlib.pyplot as plt
